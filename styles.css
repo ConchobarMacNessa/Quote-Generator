@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+}
+.burns {
+  height: 500px;
+  background-image: url("https://i.ytimg.com/vi/5xbyJGM1iUY/hqdefault.jpg");
+  background-repeat: no-repeat;
+	background-position: center;
+}
+h1 {
+  font-family: monospace;
+	color: white;
+	font-size: 30px;
+}
+h2 {
+  font-family: monospace;
+	color: white;
+	font-size: 16px;
+  text-align: center;
+}
+.text-box {
+  	font-family: monospace;
+	color: white;
+	font-size: 16px;
+  	text-align: center;
+}
+input {
+	border: solid 1px white;
+	font-family: monospace;
+	color: white;
+	border-radius: 25px;
+	font-size: 1.2em;
+	cursor: pointer;
+	margin: 8px;
+	background-color: black;
+	padding: 5px;
+  	position: relative;
+  	display: block;
+  	margin : 0 auto;
+}
+input:hover {
+	border: solid 1px white;
+	font-family: monospace;
+	color: black;
+	border-radius: 25px;
+	font-size: 1.2em;
+	cursor: pointer;
+	margin: 8px;
+	background-color: white;
+	padding: 5px;
+  	position: relative;
+  	display: block;
+  	margin : 0 auto;
+}
+input:active {
+	border: solid 1px white;
+	font-family: monospace;
+	color: black;
+	border-radius: 25px;
+	font-size: 1.2em;
+	cursor: pointer;
+	margin: 8px;
+	background-color: gray;
+	padding: 5px;
+ 	position: relative;
+  	display: block;
+  	margin : 0 auto;
+}
